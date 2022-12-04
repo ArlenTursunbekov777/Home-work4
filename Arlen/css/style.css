@@ -1,0 +1,13 @@
+.block__two__cards{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.block__two__card{
+  margin: 30px;
+  max-width: 300px;
+}
+.footer{
+  background-color: blue;
+  padding: 30px;
+}
